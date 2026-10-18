@@ -1,56 +1,36 @@
-# Nebula Navigator
+# Glass Nebula Shooter
 
-Build a modern 2D space shooter game with a premium glassmorphism UI.
+A modern 2D space shooter set in a glowing nebula, with a glassmorphism look and a dark neon theme.
 
+## Play the game
+https://glass-nebula-shooter.lovable.app
 
+## Features
+- Animated start screen
+- Control your spaceship with keyboard or touch
+- Endless waves of enemies
+- Laser shots with smooth particle effects
+- Enemy explosion animations
+- Score counter and health bar
+- Power-ups: shield, rapid fire, and double bullets
+- Pause menu
+- Game Over screen with a Restart button
+- Works on desktop and mobile
+- Smooth 60 FPS animations
 
-Features:
+## Built with
+- Lovable
+- TypeScript
+- Vite
+- GitHub for code hosting
 
-- Start screen with animated background.
+## Run it on your computer
+Install Node.js, then run:
 
-- Control spaceship using keyboard or touch.
+    git clone https://github.com/thehustler-manoj/glass-nebula-shooter.git
+    cd glass-nebula-shooter
+    npm i
+    npm run dev
 
-- Infinite enemy waves.
-
-- Shoot lasers with smooth particle effects.
-
-- Enemy explosions with satisfying animations.
-
-- Score counter.
-
-- Health bar.
-
-- Power-ups (shield, rapid fire, double bullets).
-
-- Pause menu.
-
-- Game Over screen with Restart button.
-
-- Responsive for desktop and mobile.
-
-- Dark futuristic theme with neon blue and purple colors.
-
-- Smooth 60 FPS animations.
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://glass-nebula-shooter.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/b58500b2-da2a-4503-af7c-40b52764ab77).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## Author
+Made by Manoj (thehustler-manoj)
